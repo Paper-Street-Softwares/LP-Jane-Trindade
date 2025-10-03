@@ -19,7 +19,7 @@
   },
   "hero": {
     "miniTag": "ADVOCACIA ESPECIALIZADA",
-    "title": "Justiça com sensibilidade e estratégia",
+    "title": "Justiça com <span class=\"text-primary font-bold\">sensibilidade e estratégia</span>",
     "subtitle": "Atuação firme em Direito Bancário, Consumerista, Cível, Previdenciário e Trabalhista, com foco humano e resultados reais.",
     "ctaButtonText": "Fale com a Dra. Jane",
     "obsHero": {
